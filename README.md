@@ -20,3 +20,5 @@ Usa los botones de añadir y eliminar tareas para gestionar tus tareas
 Si deseas contribuir a este proyecto, por favor, realiza un fork y envía un pull request. Agradecemos cualquier ayuda que puedas ofrecer.
 
 ¡Que tengas un gran día! 😊
+
+![](https://myoctocat.com/assets/images/base-octocat.svg)
