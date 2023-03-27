@@ -22,3 +22,5 @@ Si deseas contribuir a este proyecto, por favor, realiza un fork y envía un pul
 ¡Que tengas un gran día! 😊
 
 ![](https://github.com/fernandoDelPo/task-app/blob/main/src/assets/images/task%201.jpg?raw=true)
+![](https://github.com/fernandoDelPo/task-app/blob/main/src/assets/images/task%202.jpg?raw=true)
+![](https://github.com/fernandoDelPo/task-app/blob/main/src/assets/images/task%203.jpg?raw=true)
