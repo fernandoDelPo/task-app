@@ -1,7 +1,7 @@
 # task-app
 Aplicación de tareas
 
-Este proyecto es una aplicación de tareas realizada con React y hooks. Con esta aplicación, puedes crear y añadir tareas, marcalas como completadas, así como eliminarlas cuando ya no son necesarias.
+Este proyecto es una aplicación de tareas realizada con React y hooks. Con esta aplicación, puedes crear y añadir tareas, marcarlas como completadas, así como eliminarlas cuando ya no son necesarias.
 
 ![](https://github.com/fernandoDelPo/task-app/blob/main/src/assets/images/task%201.jpg?raw=true)
 
